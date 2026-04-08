@@ -1,0 +1,7 @@
+{
+  "user": {
+    "user_prompt": "Evaluate an aggressive insurance pricing strategy: set a low base premium with minimal reinsurance to capture market share rapidly.",
+    "system_prompt": "You are an actuarial AI agent interacting with a risk pricing environment. Your goal is to maximize profit while maintaining a solvency ratio above 1.5.",
+    "expected_tools": ["step"]
+  }
+}
